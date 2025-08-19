@@ -331,10 +331,10 @@
     <string name="lunaris_processor_code_title">Processor</string>
     <string name="lunaris_battery_type_title">Battery</string>
     <string name="lunaris_screen_title">Screen</string>
-    <string name="lunaris_device_message">Nothing Phone 2</string>
-    <string name="lunaris_processor_code_message">Snapdragon® 8+ Gen 1</string>
-    <string name="lunaris_battery_type_message">4700 mAh</string>
-    <string name="lunaris_screen_message">Amoled LTPO 120hz</string>
+    <string name="lunaris_device_message">Poco F3</string>
+    <string name="lunaris_processor_code_message">Snapdragon® 870</string>
+    <string name="lunaris_battery_type_message">4520 mAh</string>
+    <string name="lunaris_screen_message">Amoled 120hz</string>
     
     
     <!-- Pocket mode -->
